@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I'm Bidyut Kr. Das</h1>
-<h3 align="center">A computer science student from India</h3>
+<h3 align="center">Computer Science Engineer | Passionate Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidyut-kr-das&label=Profile%20views&color=0e75b6&style=flat" alt="bidyut-kr-das" /> </p>
+###<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidyut-kr-das&label=Profile%20views&color=0e75b6&style=flat" alt="bidyut-kr-das" /> </p>
+
+<p align="center">
+<em>
+  🌱Hello, I am Bidyut Kr. Das a <b>second year</b> undergraduate from
+  <a href=""><b>Techno India University, India</b></a>
+</em>
+</p>
 
 - 🌱 I’m currently learning **Basic programming languages and web development**
 
-- 📫 How to reach me **Bkdas2017.bd@gmail.com**
+- 📫 Contact me at **Bkdas2017.bd@gmail.com**
 
 - ⚡ Fun fact **Start While True:{time.sleep(5)}**
 
@@ -30,6 +37,3 @@
 </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bidyut-kr-das&show_icons=true&locale=en" alt="bidyut-kr-das" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bidyut-kr-das&" alt="bidyut-kr-das" /></p>
