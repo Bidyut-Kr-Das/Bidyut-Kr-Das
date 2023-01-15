@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Bidyut Kr. Das</h1>
+<h1 align="center">Hi <img height="40"src="Hi.gif"/>, I'm Bidyut Kr. Das</h1>
 <h3 align="center">Computer Science Engineer | Passionate Learner</h3>
 
-###<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidyut-kr-das&label=Profile%20views&color=0e75b6&style=flat" alt="bidyut-kr-das" /> </p>
+
 
 <p align="center">
 <em>
@@ -10,11 +10,16 @@
 </em>
 </p>
 
-- 🌱 I’m currently learning **Basic programming languages and web development**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***<br>
+<p></p>
 
-- 📫 Contact me at **Bkdas2017.bd@gmail.com**
+✔ Call me:***He/His***.
 
-- ⚡ Fun fact **Start While True:{time.sleep(5)}**
+🌱 I’m currently learning **Basic programming languages and web development**
+
+📫 Contact me at **Bkdas2017.bd@gmail.com**
+
+⚡ Fun fact :**I always learn something new and then sleep till it stores in the brain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +36,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bidyut-kr-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bidyut-kr-das&layout=compact&langs_count=8&theme=algolia"/>
 </a>
