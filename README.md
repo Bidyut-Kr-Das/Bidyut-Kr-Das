@@ -6,7 +6,7 @@
 
 <p align="center">
 <em>
-  🌱Hello, I am Bidyut Kr. Das a <b>second year</b> undergraduate from
+  🌱Hello, I am Bidyut Kr. Das a <b>third year</b> undergraduate from
   <a href=""><b>Techno India University, India</b></a>
 </em>
 </p>
