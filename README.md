@@ -23,7 +23,7 @@
 ⚡ Fun fact : **I always learn something new and then sleep till it stores in the brain**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" height="180em" width="200em"  src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
+<img align="right" height="180em" width="200em"  src="GDSC- Badge.jpg">
 <p align="left">
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bidyutkrdas" height="30" width="40" /></a>
 <a href="https://instagram.com/countryside_frost" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="countryside_frost" height="30" width="40" /></a>
