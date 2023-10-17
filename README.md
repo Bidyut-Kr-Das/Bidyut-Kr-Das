@@ -1,9 +1,7 @@
 <img src="Screenshot (133).png">
 <h1 align="center">Hi <img height="40px" width="40px"src="Hi.gif"/>, I'm Bidyut Kr. Das</h1>
-<h3 align="center">Computer Science Engineer | Passionate Learner</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50">
-</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=26&duration=2000&pause=1500&color=F7EE34&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Engineer;Full+Stack+Web+developer;Passionate+Learner" alt="Typing SVG" />
 
 
 <p align="center">
