@@ -1,7 +1,10 @@
 <img src="Screenshot (133).png">
 <h1 align="center">Hi <img height="40px" width="40px"src="Hi.gif"/>, I'm Bidyut Kr. Das</h1>
+<p align="center">
+  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=26&duration=2000&pause=1500&color=F7EE34&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Engineer;Full+Stack+Web+developer;Passionate+Learner" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
