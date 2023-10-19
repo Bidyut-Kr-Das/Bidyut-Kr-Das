@@ -54,11 +54,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,vite,ps&theme=dark" />
 </p>
 
-<!-- ### ⚙️ &nbsp;GitHub Analytics
+<h3>My GitHub Analytics</h3>
 
 <p align="center">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bidyut-kr-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bidyut-kr-das&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bidyut-kr-das&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bidyut-kr-das&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
+</p>
