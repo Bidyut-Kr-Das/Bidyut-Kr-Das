@@ -58,5 +58,5 @@
 
 <p align="center" >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bidyut-kr-das&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bidyut-kr-das&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bidyut-kr-das&layout=compact&langs_count=8&hide=css&theme=dark#gh-dark-mode-only"/>
 </p>
