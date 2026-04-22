@@ -9,22 +9,23 @@
 
 <p align="center">
 <em>
-  🌱Hello, I am Bidyut Kr. Das a <b>fnal year</b> undergraduate from
-  <a href=""><b>Techno India University, India</b></a>
+  🌱 Hello, I am <b>Bidyut Kr. Das</b>, a passionate <b>Software Engineer</b> focused on building scalable backend systems, modern full-stack applications, and AI-powered solutions.
 </em>
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**<br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About Me ....</i></b><br><br>
 
-<p></p>
+✔ Code Name: <b><i>ShadowFrost</i></b>  
 
-✔ Code Name:**_ShadowFrost_**.
+🚀 Passionate about <b>Backend Engineering, Full-Stack Development, AI Integration & DevOps</b>  
 
-🌱 I’m currently learning **Data Structure and Algorithms**
+🌱 Currently learning <b>System Design & Advanced Data Structures</b>  
 
-📫 Contact me at **Bkdas2017.bd@gmail.com**
+💡 Building scalable apps with <b>Next.js, TypeScript, PostgreSQL, Docker & GenAI</b>  
 
-⚡ Fun fact : **I always learn something new and then sleep till it stores in the brain**
+📫 Contact me at <b>bkdas2017.bd@gmail.com</b>  
+
+⚡ Fun fact: <b>I keep learning new things and optimizing everything I touch.</b>
 
 <h3>Say Hello</h3>
 <p>
@@ -41,18 +42,12 @@
 
 <!-- skill section -->
 <h3 align="center" >My Skills: What I'm Proud Of</h3>
-
-<!-- skill images -->
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,mongodb,nodejs,tailwind,html,css,php,mysql&theme=dark" />
-</p>
-
-<h3 align="center" >Tools: Where My Imaginations Come True </h3>
+<!-- Languages -->
+<h4 align="center">Languages</h4><p align="center">  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,c,php&theme=dark" /></p><!-- Frontend --><h4 align="center">Frontend Development</h4><p align="center">  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,redux&theme=dark" />  <br>  <sub>React &nbsp; • &nbsp; Next.js &nbsp; • &nbsp; Vite &nbsp; • &nbsp; HTML &nbsp; • &nbsp; CSS &nbsp; • &nbsp; Tailwind CSS &nbsp; • &nbsp; Redux</sub></p><!-- Backend --><h4 align="center">Backend Development</h4><p align="center">  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring&theme=dark" />  <br>  <sub>Node.js &nbsp; • &nbsp; Express.js &nbsp; • &nbsp; Flask &nbsp; • &nbsp; Django &nbsp; • &nbsp; Django REST Framework &nbsp; • &nbsp; Spring Boot</sub></p><!-- Database --><h4 align="center">Database & ORM</h4><p align="center">  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma&theme=dark" />  <br>  <sub>PostgreSQL &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; MySQL &nbsp; • &nbsp; SQLite &nbsp; • &nbsp; Prisma &nbsp; • &nbsp; Drizzle ORM</sub></p><!-- DevOps --><h4 align="center">DevOps & Deployment</h4><p align="center">  <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,bash,git,github&theme=dark" />  <br>  <sub>Docker &nbsp; • &nbsp; GitHub Actions &nbsp; • &nbsp; Vercel &nbsp; • &nbsp; Linux &nbsp; • &nbsp; Bash &nbsp; • &nbsp; Git &nbsp; • &nbsp; GitHub</sub></p><!-- Testing & Tools --><h4 align="center">Testing & Tools</h4><p align="center">  <img src="https://skillicons.dev/icons?i=postman,vscode&theme=dark" />  <br>  <sub>Postman &nbsp; • &nbsp; VS Code &nbsp; • &nbsp; Playwright</sub></p><!-- AI --><h4 align="center">AI / Automation</h4><p align="center">  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />  <br>  <sub>TensorFlow &nbsp; • &nbsp; PyTorch &nbsp; • &nbsp; RAG Systems &nbsp; • &nbsp; Google GenAI APIs</sub></p>
+<!-- <h3 align="center" >Tools: Where My Imaginations Come True </h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,vite,ps,idea,androidstudio,powershell,qt&theme=dark" />
-</p>
+</p> -->
 
 <h3>My GitHub Analytics</h3>
 
