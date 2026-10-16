@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-labelledby="t">
+<title id="t">About Bidyut Kr. Das: software engineer focused on backend, full-stack, AI integration and DevOps. Builds with Next.js, TypeScript, PostgreSQL, Docker and GenAI. Learning system design and advanced data structures. Contact: bkdas2017.bd@gmail.com</title>
+<defs>
+  <linearGradient id="ice" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#5EEAD4"/>
+    <stop offset=".55" stop-color="#38BDF8"/>
+    <stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace;font-size:15px}
+.k{fill:#7DD3FC}
+.v{fill:#CFE8FF}
+.d{fill:#5B7290}
+</style>
+<rect x=".5" y=".5" width="999" height="339" rx="16" fill="#0A1628" stroke="#1C3352"/>
+<text x="500" y="25" text-anchor="middle" class="d" font-size="13">~/shadowfrost: neofetch</text>
+<line x1="0" y1="38" x2="1000" y2="38" stroke="#1C3352"/>
+
+<text fill="url(#ice)" font-size="16" xml:space="preserve">
+  <tspan x="56" y="88">            *</tspan>
+  <tspan x="56" y="110">      \     |     /</tspan>
+  <tspan x="56" y="132">       \  \ | /  /</tspan>
+  <tspan x="56" y="154">    .   &gt;--\|/--&lt;   .</tspan>
+  <tspan x="56" y="176">  *-------( * )-------*</tspan>
+  <tspan x="56" y="198">    '   &gt;--/|\--&lt;   '</tspan>
+  <tspan x="56" y="220">       /  / | \  \</tspan>
+  <tspan x="56" y="242">      /     |     \</tspan>
+  <tspan x="56" y="264">            *</tspan>
+</text>
+
+<text x="400" y="80"><tspan fill="#5EEAD4">bidyut</tspan><tspan class="d">@</tspan><tspan class="k">shadowfrost</tspan></text>
+<text x="400" y="102" class="d">------------------</text>
+
+<g>
+  <text x="400" y="130" class="k">name</text>     <text x="500" y="130" class="v">Bidyut Kr. Das</text>
+  <text x="400" y="154" class="k">role</text>     <text x="500" y="154" class="v">Software Engineer</text>
+  <text x="400" y="178" class="k">focus</text>    <text x="500" y="178" class="v">backend, full-stack, AI integration, DevOps</text>
+  <text x="400" y="202" class="k">stack</text>    <text x="500" y="202" class="v">Next.js, TypeScript, PostgreSQL, Docker, GenAI</text>
+  <text x="400" y="226" class="k">learning</text> <text x="500" y="226" class="v">system design, advanced data structures</text>
+  <text x="400" y="250" class="k">contact</text>  <text x="500" y="250" class="v">bkdas2017.bd@gmail.com</text>
+  <text x="400" y="274" class="k">uptime</text>   <text x="500" y="274" class="v">always learning, optimizing everything I touch</text>
+</g>
+
+<g>
+  <rect x="400" y="294" width="28" height="16" fill="#13243D"/>
+  <rect x="428" y="294" width="28" height="16" fill="#1D4E73"/>
+  <rect x="456" y="294" width="28" height="16" fill="#2C82AE"/>
+  <rect x="484" y="294" width="28" height="16" fill="#5EEAD4"/>
+  <rect x="512" y="294" width="28" height="16" fill="#38BDF8"/>
+  <rect x="540" y="294" width="28" height="16" fill="#818CF8"/>
+  <rect x="568" y="294" width="28" height="16" fill="#A78BFA"/>
+  <rect x="596" y="294" width="28" height="16" fill="#EAF6FF"/>
+</g>
+</svg>
