@@ -1,4 +1,4 @@
-name: Update stats card
+name: Update profile card
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['scripts/stats.mjs', '.github/workflows/stats.yml']
+    paths: ['scripts/profile.mjs', '.github/workflows/profile.yml']
 
 permissions:
   contents: write
@@ -19,12 +19,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/stats.mjs
+      - run: node scripts/profile.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg
-          git diff --staged --quiet || (git commit -m "chore: update stats card" && git push)
+          git add assets/profile.svg
+          git diff --staged --quiet || (git commit -m "chore: update profile card" && git push)
