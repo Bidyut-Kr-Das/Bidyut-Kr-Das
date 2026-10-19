@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1451" width="1000" height="1451" role="img" aria-labelledby="t">
-<title id="t">Bidyut Kr. Das, aka ShadowFrost. Software engineer building scalable backends and AI tools. 378 contributions in the last year, 16 day streak, 2 stars.</title>
+<title id="t">Bidyut Kr. Das, aka ShadowFrost. Software engineer building scalable backends and AI tools. 375 contributions in the last year, 16 day streak, 2 stars.</title>
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#030812"/><stop offset=".5" stop-color="#081427"/><stop offset="1" stop-color="#091830"/>
@@ -102,7 +102,7 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,mon
 <rect x="514" y="870" width="114" height="28" rx="14" fill="#12233D" stroke="#1E3A5F"/><text x="571" y="889" text-anchor="middle" class="pill">Drizzle ORM</text>
 <rect x="638" y="870" width="106" height="28" rx="14" fill="#12233D" stroke="#1E3A5F"/><text x="691" y="889" text-anchor="middle" class="pill">Playwright</text>
 <text x="56" y="958" class="p">$ <tspan class="v">frost stats --user bidyut-kr-das</tspan></text>
-<text x="56" y="1016" class="big">378</text><text x="56" y="1038" class="dim">contributions</text>
+<text x="56" y="1016" class="big">375</text><text x="56" y="1038" class="dim">contributions</text>
 <text x="240" y="1016" class="big">16d</text><text x="240" y="1038" class="dim">current streak</text>
 <text x="424" y="1016" class="big">16d</text><text x="424" y="1038" class="dim">longest streak</text>
 <text x="608" y="1016" class="big">2</text><text x="608" y="1038" class="dim">stars earned</text>
@@ -172,7 +172,7 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,mon
 <text x="902" y="1076" class="dim sm">Oct</text>
 <g class="col" style="animation-delay:1100ms"><rect x="902" y="1086" width="13" height="13" rx="3" fill="#1D4E73"><title>6 on 2026-10-04</title></rect><rect x="902" y="1103" width="13" height="13" rx="3" fill="#1D4E73"><title>5 on 2026-10-05</title></rect><rect x="902" y="1120" width="13" height="13" rx="3" fill="#2C82AE"><title>12 on 2026-10-06</title></rect><rect x="902" y="1137" width="13" height="13" rx="3" fill="#56C2E6"><title>15 on 2026-10-07</title></rect><rect x="902" y="1154" width="13" height="13" rx="3" fill="#56C2E6"><title>15 on 2026-10-08</title></rect><rect x="902" y="1171" width="13" height="13" rx="3" fill="#2C82AE"><title>12 on 2026-10-09</title></rect><rect x="902" y="1188" width="13" height="13" rx="3" fill="#56C2E6"><title>16 on 2026-10-10</title></rect></g>
 <g class="col" style="animation-delay:1122ms"><rect x="919" y="1086" width="13" height="13" rx="3" fill="#D4F3FF"><title>27 on 2026-10-11</title></rect><rect x="919" y="1103" width="13" height="13" rx="3" fill="#1D4E73"><title>6 on 2026-10-12</title></rect><rect x="919" y="1120" width="13" height="13" rx="3" fill="#2C82AE"><title>8 on 2026-10-13</title></rect><rect x="919" y="1137" width="13" height="13" rx="3" fill="#2C82AE"><title>13 on 2026-10-14</title></rect><rect x="919" y="1154" width="13" height="13" rx="3" fill="#56C2E6"><title>20 on 2026-10-15</title></rect><rect x="919" y="1171" width="13" height="13" rx="3" fill="#56C2E6"><title>14 on 2026-10-16</title></rect><rect x="919" y="1188" width="13" height="13" rx="3" fill="#1D4E73"><title>5 on 2026-10-17</title></rect></g>
-<g class="col" style="animation-delay:1144ms"><rect x="936" y="1086" width="13" height="13" rx="3" fill="#1D4E73"><title>1 on 2026-10-18</title></rect></g>
+<g class="col" style="animation-delay:1144ms"><rect x="936" y="1086" width="13" height="13" rx="3" fill="#1D4E73"><title>4 on 2026-10-18</title></rect><rect x="936" y="1103" width="13" height="13" rx="3" fill="#13243D"><title>0 on 2026-10-19</title></rect></g>
 <text x="52" y="1237" class="dim">languages by code size</text>
 <g clip-path="url(#bar)"><rect x="52.0" y="1251" width="517.5" height="10" fill="#5EEAD4"/><rect x="569.5" y="1251" width="148.3" height="10" fill="#38BDF8"/><rect x="717.8" y="1251" width="70.2" height="10" fill="#818CF8"/><rect x="788.0" y="1251" width="61.3" height="10" fill="#A78BFA"/><rect x="849.4" y="1251" width="51.2" height="10" fill="#7DD3FC"/><rect x="900.6" y="1251" width="47.4" height="10" fill="#CFE8FF"/></g>
 <circle cx="57" cy="1288" r="5" fill="#5EEAD4"/><text x="68" y="1293" class="pill">TypeScript <tspan class="dim">57.8%</tspan></text>
