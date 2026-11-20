@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1451" width="1000" height="1451" role="img" aria-labelledby="t">
-<title id="t">Bidyut Kr. Das, aka ShadowFrost. Software engineer building scalable backends and AI tools. 785 contributions in the last year, 23 day streak, 2 stars.</title>
+<title id="t">Bidyut Kr. Das, aka ShadowFrost. Software engineer building scalable backends and AI tools. 788 contributions in the last year, 24 day streak, 2 stars.</title>
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#030812"/><stop offset=".5" stop-color="#081427"/><stop offset="1" stop-color="#091830"/>
@@ -102,9 +102,9 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,mon
 <rect x="514" y="870" width="114" height="28" rx="14" fill="#12233D" stroke="#1E3A5F"/><text x="571" y="889" text-anchor="middle" class="pill">Drizzle ORM</text>
 <rect x="638" y="870" width="106" height="28" rx="14" fill="#12233D" stroke="#1E3A5F"/><text x="691" y="889" text-anchor="middle" class="pill">Playwright</text>
 <text x="56" y="958" class="p">$ <tspan class="v">frost stats --user bidyut-kr-das</tspan></text>
-<text x="56" y="1016" class="big">785</text><text x="56" y="1038" class="dim">contributions</text>
-<text x="240" y="1016" class="big">23d</text><text x="240" y="1038" class="dim">current streak</text>
-<text x="424" y="1016" class="big">23d</text><text x="424" y="1038" class="dim">longest streak</text>
+<text x="56" y="1016" class="big">788</text><text x="56" y="1038" class="dim">contributions</text>
+<text x="240" y="1016" class="big">24d</text><text x="240" y="1038" class="dim">current streak</text>
+<text x="424" y="1016" class="big">24d</text><text x="424" y="1038" class="dim">longest streak</text>
 <text x="608" y="1016" class="big">2</text><text x="608" y="1038" class="dim">stars earned</text>
 <text x="792" y="1016" class="big">39</text><text x="792" y="1038" class="dim">pull requests</text>
 <text x="52" y="1076" class="dim sm">Nov</text>
@@ -172,7 +172,7 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,mon
 <text x="902" y="1076" class="dim sm">Nov</text>
 <g class="col" style="animation-delay:1100ms"><rect x="902" y="1086" width="13" height="13" rx="3" fill="#1D4E73"><title>4 on 2026-11-01</title></rect><rect x="902" y="1103" width="13" height="13" rx="3" fill="#D4F3FF"><title>36 on 2026-11-02</title></rect><rect x="902" y="1120" width="13" height="13" rx="3" fill="#2C82AE"><title>22 on 2026-11-03</title></rect><rect x="902" y="1137" width="13" height="13" rx="3" fill="#2C82AE"><title>15 on 2026-11-04</title></rect><rect x="902" y="1154" width="13" height="13" rx="3" fill="#1D4E73"><title>7 on 2026-11-05</title></rect><rect x="902" y="1171" width="13" height="13" rx="3" fill="#D4F3FF"><title>38 on 2026-11-06</title></rect><rect x="902" y="1188" width="13" height="13" rx="3" fill="#2C82AE"><title>14 on 2026-11-07</title></rect></g>
 <g class="col" style="animation-delay:1122ms"><rect x="919" y="1086" width="13" height="13" rx="3" fill="#1D4E73"><title>3 on 2026-11-08</title></rect><rect x="919" y="1103" width="13" height="13" rx="3" fill="#1D4E73"><title>5 on 2026-11-09</title></rect><rect x="919" y="1120" width="13" height="13" rx="3" fill="#1D4E73"><title>9 on 2026-11-10</title></rect><rect x="919" y="1137" width="13" height="13" rx="3" fill="#1D4E73"><title>4 on 2026-11-11</title></rect><rect x="919" y="1154" width="13" height="13" rx="3" fill="#1D4E73"><title>1 on 2026-11-12</title></rect><rect x="919" y="1171" width="13" height="13" rx="3" fill="#1D4E73"><title>4 on 2026-11-13</title></rect><rect x="919" y="1188" width="13" height="13" rx="3" fill="#1D4E73"><title>4 on 2026-11-14</title></rect></g>
-<g class="col" style="animation-delay:1144ms"><rect x="936" y="1086" width="13" height="13" rx="3" fill="#D4F3FF"><title>47 on 2026-11-15</title></rect><rect x="936" y="1103" width="13" height="13" rx="3" fill="#56C2E6"><title>33 on 2026-11-16</title></rect><rect x="936" y="1120" width="13" height="13" rx="3" fill="#56C2E6"><title>27 on 2026-11-17</title></rect><rect x="936" y="1137" width="13" height="13" rx="3" fill="#2C82AE"><title>21 on 2026-11-18</title></rect><rect x="936" y="1154" width="13" height="13" rx="3" fill="#13243D"><title>0 on 2026-11-19</title></rect></g>
+<g class="col" style="animation-delay:1144ms"><rect x="936" y="1086" width="13" height="13" rx="3" fill="#D4F3FF"><title>47 on 2026-11-15</title></rect><rect x="936" y="1103" width="13" height="13" rx="3" fill="#56C2E6"><title>33 on 2026-11-16</title></rect><rect x="936" y="1120" width="13" height="13" rx="3" fill="#56C2E6"><title>27 on 2026-11-17</title></rect><rect x="936" y="1137" width="13" height="13" rx="3" fill="#2C82AE"><title>21 on 2026-11-18</title></rect><rect x="936" y="1154" width="13" height="13" rx="3" fill="#1D4E73"><title>3 on 2026-11-19</title></rect><rect x="936" y="1171" width="13" height="13" rx="3" fill="#13243D"><title>0 on 2026-11-20</title></rect></g>
 <text x="52" y="1237" class="dim">languages by code size</text>
 <g clip-path="url(#bar)"><rect x="52.0" y="1251" width="439.2" height="10" fill="#5EEAD4"/><rect x="491.2" y="1251" width="151.1" height="10" fill="#38BDF8"/><rect x="642.3" y="1251" width="125.7" height="10" fill="#818CF8"/><rect x="768.0" y="1251" width="84.6" height="10" fill="#A78BFA"/><rect x="852.6" y="1251" width="52.0" height="10" fill="#7DD3FC"/><rect x="904.6" y="1251" width="43.4" height="10" fill="#CFE8FF"/></g>
 <circle cx="57" cy="1288" r="5" fill="#5EEAD4"/><text x="68" y="1293" class="pill">TypeScript <tspan class="dim">49.0%</tspan></text>
