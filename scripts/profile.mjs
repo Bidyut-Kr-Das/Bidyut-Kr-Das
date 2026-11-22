@@ -27,13 +27,13 @@ const STACK = [
 const PILLS = ['RAG systems', 'Google GenAI', 'Django REST Framework', 'Drizzle ORM', 'Playwright'];
 
 // ponytail: first 100 owned repos only, paginate if the account outgrows it
-const QUERY = `query($login: String!) {
+const QUERY = `query($login: String!, $prQuery: String!) {
+  prs: search(query: $prQuery, type: ISSUE) { issueCount }
   user(login: $login) {
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100) {
       nodes { stargazerCount languages(first: 10, orderBy: {field: SIZE, direction: DESC}) { edges { size node { name } } } }
     }
     contributionsCollection {
-      totalPullRequestContributions
       contributionCalendar { totalContributions weeks { contributionDays { contributionCount date } } }
     }
   }
@@ -43,7 +43,7 @@ async function fetchData() {
   const res = await fetch('https://api.github.com/graphql', {
     method: 'POST',
     headers: { Authorization: `bearer ${process.env.GITHUB_TOKEN}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ query: QUERY, variables: { login: USER } }),
+    body: JSON.stringify({ query: QUERY, variables: { login: USER, prQuery: `author:${USER} is:pr is:merged` } }),
   });
   const { data, errors } = await res.json();
   if (errors || !data?.user) throw new Error(JSON.stringify(errors ?? data));
@@ -56,7 +56,7 @@ async function fetchData() {
   return {
     weeks: cc.contributionCalendar.weeks.map(w => w.contributionDays),
     total: cc.contributionCalendar.totalContributions,
-    prs: cc.totalPullRequestContributions,
+    prs: data.prs.issueCount,
     stars: repositories.nodes.reduce((s, r) => s + r.stargazerCount, 0),
     langs,
   };
@@ -156,7 +156,7 @@ export function render({ weeks, total, prs, stars, langs }, icons) {
     [`${current}d`, 'current streak'],
     [`${longest}d`, 'longest streak'],
     [num(stars), 'stars earned'],
-    [num(prs), 'pull requests'],
+    [num(prs), 'merged PRs'],
   ].forEach(([v, l], i) => {
     const x = 56 + i * 184;
     out.push(`<text x="${x}" y="${y + 58}" class="big">${esc(v)}</text><text x="${x}" y="${y + 80}" class="dim">${l}</text>`);
